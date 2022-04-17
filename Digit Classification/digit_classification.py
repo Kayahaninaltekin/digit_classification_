@@ -96,30 +96,3 @@ model.save("my_model.h5")
 
 # optimizers = Adadelta => epoch = 25, batch_size = 10 => loss: 0.4611 - accuracy: 0.8548
 # optimizers = RMSprop => epoch = 2, batch_size = 10 => loss: 0.1296 - accuracy: 0.9621
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
